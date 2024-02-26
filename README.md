@@ -23,6 +23,5 @@ Please feel free to view/download my resume: [view CV](CRV.Gen.pdf)
   * 
 Excel / Google Sheets
 
-Tableau---> https://public.tableau.com/app/profile/gen.castillo/vizzes 
-
+Tableau---> [Go to Tableau]([CRV.Gen.pdf](https://public.tableau.com/app/profile/gen.castillo/vizzes )
 Power BI
