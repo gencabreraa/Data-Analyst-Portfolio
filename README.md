@@ -30,7 +30,9 @@ Please feel free to view/download my resume: [view CV](https://github.com/gencab
 
 * Tableau---> [Go to Tableau](https://public.tableau.com/app/profile/gen.castillo/vizzes)
 
-* Power BI
+* Power BI 
+  * Data Professional Survey Breakdown ---> [View Static Dashboard](https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/Data%20Professional%20Survey%20Breakdown%20(1).pdf)
+  * Data Professional Survey Breakdown --->  [View Interactive Dashboard](https://drive.google.com/file/d/1Oj1lmGxEmVeMfpqA8vuACl3G8hQPm2ea/view?usp=sharing)
 
 ## Case Studies
 
