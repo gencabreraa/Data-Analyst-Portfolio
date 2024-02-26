@@ -38,4 +38,8 @@ Please feel free to view/download my resume: [view CV](https://github.com/gencab
 * [View case study 2](https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/Smart%20Watch%20Data%20Analysis.pdf) 
   
 
-## 
+## Contacts
+
+* LinkedIn: [gencabrera](https://www.linkedin.com/in/gen-cabrera-758906223/)
+* Email: gencabreraa@gmail.com
+* Phone: 1-849-489-0067
