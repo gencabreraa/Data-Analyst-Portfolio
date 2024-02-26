@@ -22,7 +22,7 @@ Please feel free to view/download my resume: [view CV](CRV.Gen.pdf)
     *Tech Store Sales Analysis
   
 * SQL
-   * 
+   * [Data cleaning with SQL](https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/Data%20cleaning%20with%20SQL.pdf)
 
 
 * Excel / Google Sheets ---> [Data cleaning, pivot table & visualizations in excel/googlesheets](https://docs.google.com/spreadsheets/d/1JszW_SZwDj-J6_8TqqLb7feSBM0PxPdoiDux0p4_I9U/edit?usp=sharing&resourcekey=0-XPJNSDEfh9VGQjlT2AF2YA)
