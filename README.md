@@ -1,5 +1,5 @@
 # Data-Analyst-Portfolio
-A Sample of my work
+A Sample of My Work
 ## About 
 Hi, I'm Gen! I'm a results-driven Data Analyst with over 5 years of experience.
 Equipped with a Google Data Analytics Professional Certificate, I am passionate about collaborating with organizations aiming to leverage their data effectively; 
@@ -17,13 +17,6 @@ Please feel free to view/download my resume: [view CV](https://github.com/gencab
 *R (Programming Language)
 
    * Analysing the penguin's data set [View steps taken & results](https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/R%20Project.pdf)
-     
-* Python
-    *Tech Store Sales Analysis
-  
-* SQL
-   * [Data cleaning with SQL](https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/Data%20cleaning%20with%20SQL.pdf)
-
 
 * Excel / Google Sheets ---> [Data cleaning, pivot table & visualizations in excel/googlesheets](https://docs.google.com/spreadsheets/d/1JszW_SZwDj-J6_8TqqLb7feSBM0PxPdoiDux0p4_I9U/edit?usp=sharing&resourcekey=0-XPJNSDEfh9VGQjlT2AF2YA)
   * Google Sheets Practice ---> [Sales/salaries dataset viz on excel](https://docs.google.com/spreadsheets/d/1WDjlOZhikg_f86UGM56494XT_sPpJ065ErC49YXZJiQ/edit?usp=sharing)
@@ -33,6 +26,14 @@ Please feel free to view/download my resume: [view CV](https://github.com/gencab
 * Power BI 
   * Data Professional Survey Breakdown ---> [View Static Dashboard](https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/Data%20Professional%20Survey%20Breakdown%20(1).pdf)
   * Data Professional Survey Breakdown --->  [View Interactive Dashboard](https://drive.google.com/file/d/1Oj1lmGxEmVeMfpqA8vuACl3G8hQPm2ea/view?usp=sharing)
+     
+* Python
+    *Tech Store Sales Analysis
+  
+* SQL
+   * [Data cleaning with SQL](https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/Data%20cleaning%20with%20SQL.pdf)
+
+
 
 ## Case Studies
 
