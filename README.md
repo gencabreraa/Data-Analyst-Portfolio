@@ -16,5 +16,5 @@ toc: true
 https://rpubs.com/Gencabreraa/1153447
 
 * Portfolio Projects
-    * Analysing the penguin's data set with R Programming language [Download CV]( https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/R%20Project.pdf)
+    * Analysing the penguin's data set with R Programming language [read CV]( https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/R%20Project.pdf)
 
