@@ -16,7 +16,7 @@ Please feel free to view/download my resume: [view CV]([CRV.Gen.pdf](https://git
  ## Portfolio Projects
 *R (Programming Language)
 
-   * Analysing the penguin's data set [View steps taken & results]( https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/R%20Project.pdf)
+   * Analysing the penguin's data set [View steps taken & results](https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/R%20Project.pdf)
      
 * Python
     *Tech Store Sales Analysis
