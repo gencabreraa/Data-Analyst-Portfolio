@@ -31,7 +31,9 @@ Please feel free to view/download my resume: [view CV](CRV.Gen.pdf)
 
 * Power BI
 
-## Case Studies/Presentations ---> [view CV](CRV.Gen.pdf) [view CV](CRV.Gen.pdf) 
+## Case Studies
+
+* Presentation sample ---> [view case study #1](Cyclistic Insights.pdf) [view case study #2](Smart Watch Data Analysis.pdf) 
 
 
 
