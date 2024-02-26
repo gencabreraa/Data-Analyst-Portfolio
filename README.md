@@ -25,7 +25,7 @@ Please feel free to view/download my resume: [view CV](CRV.Gen.pdf)
    * 
 
 
-* Excel / Google Sheets
+* Excel / Google Sheets ---> [Data cleaning, pivot table & visualizations in excel/googlesheets](https://docs.google.com/spreadsheets/d/1JszW_SZwDj-J6_8TqqLb7feSBM0PxPdoiDux0p4_I9U/edit?usp=sharing&resourcekey=0-XPJNSDEfh9VGQjlT2AF2YA)
 
 * Tableau---> [Go to Tableau](https://public.tableau.com/app/profile/gen.castillo/vizzes)
 
