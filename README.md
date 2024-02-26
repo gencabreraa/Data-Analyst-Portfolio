@@ -7,3 +7,4 @@ from conceptualizing initial ideas on what to measure and how to accurately capt
 
 I can assist in every phase of the process to empower your organization to make evidence-driven decisions or effectively communicate insights to diverse audiences.
 
+Please feel free to review my resume: [Download CV](CRV.Gen.pdf){:target="_blank"}
