@@ -15,13 +15,24 @@ Please feel free to view/download my resume: [view CV](CRV.Gen.pdf)
 
  ## Portfolio Projects
 *R (Programming Language)
-    * Analysing the penguin's data set [read CV]( https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/R%20Project.pdf)
 
+   * Analysing the penguin's data set [read CV]( https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/R%20Project.pdf)
+     
 * Python
     *Tech Store Sales Analysis
+  
 * SQL
-  * 
-Excel / Google Sheets
+   * 
 
-Tableau---> [Go to Tableau]([CRV.Gen.pdf](https://public.tableau.com/app/profile/gen.castillo/vizzes )
-Power BI
+
+* Excel / Google Sheets
+
+* Tableau---> [Go to Tableau](https://public.tableau.com/app/profile/gen.castillo/vizzes)
+
+* Power BI
+
+## Case Studies/Presentations ---> [view CV](CRV.Gen.pdf) [view CV](CRV.Gen.pdf) 
+
+
+
+## 
