@@ -11,6 +11,7 @@ Please feel free to review/download my resume: [Download CV](CRV.Gen.pdf)
 
 
 
-# Table of contents
+# Table of contents 
+https://rpubs.com/Gencabreraa/1153447
 
-
+toc: true
