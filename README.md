@@ -25,7 +25,7 @@ Please feel free to view/download my resume: [view CV](https://github.com/gencab
 
 * Power BI 
   * Data Professional Survey Breakdown ---> [View Static Dashboard](https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/Data%20Professional%20Survey%20Breakdown%20(1).pdf)
-  * Data Professional Survey Breakdown --->  [View Interactive Dashboard](https://drive.google.com/file/d/1Oj1lmGxEmVeMfpqA8vuACl3G8hQPm2ea/view?usp=sharing)
+  * Data Professional Survey Breakdown --->  [View Interactive Dashboard](https://www.loom.com/share/245bbea05e714d8b9378ae29f91ae33f?sid=8bc10792-1937-4aaa-bd12-1d817dadb856)
      
 * Python
     *Tech Store Sales Analysis
