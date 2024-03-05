@@ -20,6 +20,7 @@ Please feel free to view/download my resume: [view CV](https://github.com/gencab
     * Working with the population dataset in Jupyter Notebook with Python
      * CODE ————> [View code](https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/Practice.md)
      * Visualizations:
+       
         [View Piechart](https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/output_188_1.png)
        
         [View Linepot](https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/output_178_1.png )
