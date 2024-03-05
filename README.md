@@ -23,7 +23,7 @@ Please feel free to view/download my resume: [view CV](https://github.com/gencab
        
         [View Piechart](https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/output_188_1.png)
        
-        [View Linepot](https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/output_178_1.png )
+        [View Lineplot](https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/output_178_1.png )
        
         [View Bar chart](https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/output_186_1.png)
        
