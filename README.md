@@ -30,7 +30,9 @@ Please feel free to view/download my resume: [view CV](https://github.com/gencab
   * Data Professional Survey Breakdown --->  [View Interactive Dashboard](https://www.loom.com/share/245bbea05e714d8b9378ae29f91ae33f?sid=8bc10792-1937-4aaa-bd12-1d817dadb856)
      
 * Python
-    *Tech Store Sales Analysis
+    * Working with the population dataset in Jupyter Notebook with Python
+     * CODE ————> [View code](https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/Practice.md)
+     * Visualizations  ————> 
   
 * SQL
    * [Data cleaning with SQL](https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/Data%20cleaning%20with%20SQL.pdf)
