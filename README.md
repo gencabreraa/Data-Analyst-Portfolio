@@ -34,7 +34,7 @@ Please feel free to view/download my resume: [view CV](https://github.com/gencab
  
    * [Creating a company database schema](https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/Creating%20company%20database%20Schema.sql)
      
-   * [Retriving some info from our new database](https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/Playing%20%20with%20our%20new%20company%20database.sql)
+   * [Retrieving some info from our new database](https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/Playing%20%20with%20our%20new%20company%20database.sql)
  
    * [Updating & deleting random rows](https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/Update%20%26%20Delete%20rows.sql)
 
