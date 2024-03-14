@@ -16,6 +16,9 @@ Please feel free to view/download my resume: [view CV](https://github.com/gencab
 # Table of contents 
 
  ## Portfolio Projects
+
+ * Tableau---> [Go to Tableau](https://public.tableau.com/app/profile/gen.castillo/vizzes)
+   
  * Python
     * Working with the population dataset in Jupyter Notebook with Python
      * CODE ————> [View code](https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/Practice.md)
@@ -49,7 +52,6 @@ Please feel free to view/download my resume: [view CV](https://github.com/gencab
 * Excel / Google Sheets ---> [Data cleaning, pivot table & visualizations in excel/googlesheets](https://docs.google.com/spreadsheets/d/1JszW_SZwDj-J6_8TqqLb7feSBM0PxPdoiDux0p4_I9U/edit?usp=sharing&resourcekey=0-XPJNSDEfh9VGQjlT2AF2YA)
   * Google Sheets Practice ---> [Sales/salaries dataset viz on excel](https://docs.google.com/spreadsheets/d/1WDjlOZhikg_f86UGM56494XT_sPpJ065ErC49YXZJiQ/edit?usp=sharing)
 
-* Tableau---> [Go to Tableau](https://public.tableau.com/app/profile/gen.castillo/vizzes)
 
 * Power BI 
   * Data Professional Survey Breakdown ---> [View Static Dashboard](https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/Data%20Professional%20Survey%20Breakdown%20(1).pdf)
