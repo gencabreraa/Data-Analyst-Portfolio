@@ -18,8 +18,9 @@ Please feel free to view/download my resume: [view CV](https://github.com/gencab
  ## Portfolio Projects
 
  * Tableau---> [View my visualizations in Tableau](https://public.tableau.com/app/profile/gen.castillo/vizzes)
- * 
-*Python
+
+   
+* Python
     * Working with the population dataset in Jupyter Notebook with Python
      * CODE ————> [View code](https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/Practice.md)
      * Visualizations:
