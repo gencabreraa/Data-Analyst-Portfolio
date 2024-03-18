@@ -48,10 +48,10 @@ Please feel free to view/download my resume: [view CV](https://github.com/gencab
 
 
  
-
 * Excel / Google Sheets ---> [Data cleaning, pivot table & visualizations in excel/googlesheets](https://docs.google.com/spreadsheets/d/1JszW_SZwDj-J6_8TqqLb7feSBM0PxPdoiDux0p4_I9U/edit?usp=sharing&resourcekey=0-XPJNSDEfh9VGQjlT2AF2YA)
   * Google Sheets Practice ---> [Sales/salaries dataset viz on excel](https://docs.google.com/spreadsheets/d/1WDjlOZhikg_f86UGM56494XT_sPpJ065ErC49YXZJiQ/edit?usp=sharing)
   * [Download Financial Performance Analysis and Key Insights](https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/Financial%20Performance%20Analysis%20and%20Key%20Insights%20.xlsx)
+
 
 * Power BI 
   * Data Professional Survey Breakdown ---> [View Static Dashboard](https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/Data%20Professional%20Survey%20Breakdown%20(1).pdf)
