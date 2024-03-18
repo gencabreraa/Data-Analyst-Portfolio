@@ -18,8 +18,8 @@ Please feel free to view/download my resume: [view CV](https://github.com/gencab
  ## Portfolio Projects
 
  * Tableau---> [View my visualizations in Tableau](https://public.tableau.com/app/profile/gen.castillo/vizzes)
-   
- * Python
+ * 
+*Python
     * Working with the population dataset in Jupyter Notebook with Python
      * CODE ————> [View code](https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/Practice.md)
      * Visualizations:
@@ -32,7 +32,7 @@ Please feel free to view/download my resume: [view CV](https://github.com/gencab
        
         [View Bar chart focused on 1 year(2020)](https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/output_184_1.png)
 
-* SQL
+*SQL
    * [Data cleaning with SQL](https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/Data%20cleaning%20with%20SQL.pdf)
  
    * [Creating a company database schema](https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/Creating%20company%20database%20Schema.sql)
@@ -47,13 +47,13 @@ Please feel free to view/download my resume: [view CV](https://github.com/gencab
    * Analysing the penguin's data set [View steps taken & results](https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/R%20Project.pdf)
 
 
- 
-* Excel / Google Sheets ---> [Data cleaning, pivot table & visualizations in excel/googlesheets](https://docs.google.com/spreadsheets/d/1JszW_SZwDj-J6_8TqqLb7feSBM0PxPdoiDux0p4_I9U/edit?usp=sharing&resourcekey=0-XPJNSDEfh9VGQjlT2AF2YA)
+
+*Excel / Google Sheets ---> [Data cleaning, pivot table & visualizations in excel/googlesheets](https://docs.google.com/spreadsheets/d/1JszW_SZwDj-J6_8TqqLb7feSBM0PxPdoiDux0p4_I9U/edit?usp=sharing&resourcekey=0-XPJNSDEfh9VGQjlT2AF2YA)
   * Google Sheets Practice ---> [Sales/salaries dataset viz on excel](https://docs.google.com/spreadsheets/d/1WDjlOZhikg_f86UGM56494XT_sPpJ065ErC49YXZJiQ/edit?usp=sharing)
   * [Download Financial Performance Analysis and Key Insights](https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/Financial%20Performance%20Analysis%20and%20Key%20Insights%20.xlsx)
 
 
-* Power BI 
+*Power BI 
   * Data Professional Survey Breakdown ---> [View Static Dashboard](https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/Data%20Professional%20Survey%20Breakdown%20(1).pdf)
   * Data Professional Survey Breakdown --->  [View Interactive Dashboard](https://www.loom.com/share/245bbea05e714d8b9378ae29f91ae33f?sid=8bc10792-1937-4aaa-bd12-1d817dadb856)
      
