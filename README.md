@@ -62,7 +62,8 @@ Please feel free to view/download my resume: [view CV](https://github.com/gencab
 ## Case Studies
 
 * Presentation sample ---> [View case study 1](https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/Cyclistic%20Insights.pdf)
-* [View case study 2](https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/Smart%20Watch%20Data%20Analysis.pdf) 
+* [View case study 2](https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/Smart%20Watch%20Data%20Analysis.pdf)
+* [Gold Prices & Reserves](https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/Gold%20Prices%20%26%20Reserves%20.pdf)
   
 
 ## Contacts
