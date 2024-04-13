@@ -17,9 +17,9 @@ Please feel free to view/download my resume: [view CV](https://github.com/gencab
 
  ## Portfolio Projects
 
- * Google Data Analyst Certificate---> [View my visualizations in Tableau](https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/Screenshot%202024-04-13%20at%201.29.19%20PM.png)
-
- * Financial Analyst Certificate---> [View my visualizations in Tableau](https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/Certificate.png)
+ * Google Data Analyst Certificate---> [View my visualizations in Tableau](https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/Certificate.png)
+   
+ * Financial Analyst Certificate---> [View my visualizations in Tableau](https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/Screenshot%202024-04-13%20at%201.29.19%20PM.png)
 
  * Tableau---> [View my visualizations in Tableau](https://public.tableau.com/app/profile/gen.castillo/vizzes)
 
