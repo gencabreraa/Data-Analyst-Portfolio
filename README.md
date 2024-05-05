@@ -9,7 +9,7 @@ I am passionate about collaborating with organizations aiming to leverage their 
 
 I look forward to the possibility of discussing how my skills align with your needs in more detail.
 
-Please feel free to view/download my resume: [view CV](https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/Updated_Resume.pdf)
+Please feel free to view/download my resume: [view CV](https://github.com/gencabreraa/Data-Analyst-Portfolio/blob/main/Resume_Updated.pdf)
 
 
 
