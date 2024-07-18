@@ -1,7 +1,7 @@
 # Data-Analyst-Portfolio
 A Sample of My Work
 ## About 
-Hi There,
+Hi there,
 
 My name is Gen, I'm a results-driven Data Analyst. I am passionate about collaborating with organizations aiming to leverage their data effectively; from conceptualizing initial ideas on what to measure and how to accurately capture data, to data preparation, analysis, and management, and finally delivering impactful insights.
 
