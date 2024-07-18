@@ -67,6 +67,5 @@ I look forward to the possibility of discussing how my skills align with your ne
 
 ## Contacts
 
-* LinkedIn: [gencabrera](https://www.linkedin.com/in/gen-cabrera-758906223/)
 * Email: gencabreraa@gmail.com
 * Phone: 1-849-489-0067
